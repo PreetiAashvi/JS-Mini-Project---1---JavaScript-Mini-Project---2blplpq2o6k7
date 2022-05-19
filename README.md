@@ -10,3 +10,10 @@ Online music players have become essential for consuming music on the internet. 
 1. Semantic HTML5 markup
 2. CSS custom properties
 3. Java Script
+
+
+
+
+
+
+
